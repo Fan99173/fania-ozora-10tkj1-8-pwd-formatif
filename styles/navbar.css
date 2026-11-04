@@ -1,8 +1,8 @@
 body {
     margin: 0;
-    background-color: #f1dafd;
+    background-color: #eed4fc;
     font-family: "Poppins", Arial, Helvetica, sans-serif;
-    color: #243143;
+    color: #283850;
 }
 
 #main-header {
@@ -17,7 +17,7 @@ body {
 }
 
 .logo {
-    color: #ffffff;
+    color: #e0eafb;
     font-size: 22px;
     font-weight: bold;
 }
@@ -39,7 +39,7 @@ body {
 }
 
 .nav-menu a:hover {
-    color: #f7ae2f;
+    color: #f9b032;
 }
 
 main {
