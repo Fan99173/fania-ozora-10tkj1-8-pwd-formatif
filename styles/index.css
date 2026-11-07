@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Poppins, Arial, sans-serif;
+  background-color: #f4f6fb;
+  color: #2b3a55;
+}
+
+
+header {
+  text-align: center;
+  background-color: #243656;
+  color: #ffffff;
+  padding: 24px;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+
+#components h2,
+#pages h2 {
+  color: #243656;
+  font-size: 1.25rem;
+}
+
+
+a {
+  color: #2b3a55;
+}
+
+main a {
+  color: #d9791f;
+}
+
+
+footer {
+  text-align: center;
+  font-size: 0.85rem;
+  background-color: #dde4f2;
+  padding: 16px;
+}
