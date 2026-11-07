@@ -6,19 +6,21 @@ body {
 
 #hero {
   height: 400px;
-  background-color: #4a5a7a;
+  background-image: url("../assets/images/blues.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-
 .hero-content {
   width: 640px;
   margin: 0 auto;
   padding: 24px;
-  background-color: rgba(0, 0, 0, 0.45);
+  background-color: rgba(28, 62, 101, 0.351);
   color: #ffffff;
   border-radius: 12px;
 }
